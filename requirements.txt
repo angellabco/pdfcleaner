@@ -1,5 +1,6 @@
 
 streamlit
+transformers
 pytesseract==0.3.8
 pdf2image==1.16.0
 PyPDF2==1.26.0
